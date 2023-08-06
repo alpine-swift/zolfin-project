@@ -1,0 +1,10 @@
+.l-about {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat; }
+  .l-about--bg-1 {
+    background: url(../img/about-bg.png), white; }
+  .l-about--bg-2 {
+    background-image: url(../img/about-bg-2.png); }
+
+/*# sourceMappingURL=_about.css.map */
